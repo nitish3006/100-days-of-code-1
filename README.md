@@ -1,5 +1,5 @@
 # 100-Days-Of-Code
-100 Days Of Code
+100 Days Of Python
 
 
 # Overview
@@ -49,7 +49,7 @@
 | 41 | Private Project | Private Project | - | -
 | 42 | Private Project | Private Project | - | -
 | 43 |NASA API  | Playing around with the NASA API  | Javascript  |Done
-| 44 |  |  |  |
+| 44 |Python  |  |  |
 | 45 |  |  |  |
 | 46 |  |  |  |
 | 47 |  |  |  |
